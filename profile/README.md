@@ -1,4 +1,4 @@
-# [Sharif](https://en.sharif.edu) [Basic Programming (Python)](https://docs.ce.sharif.edu/course/40153.1) Organization
+# [Sharif](https://en.sharif.edu) / [Basic Programming (Python)](https://docs.ce.sharif.edu/course/40153.1) Organization
 
 The Basic Programming Organization is dedicated to providing a wide range of educational resources for students, educators, and enthusiasts in Basic Programming. Our repositories include study materials, coding exercises, and project examples from the course at SUT.
 

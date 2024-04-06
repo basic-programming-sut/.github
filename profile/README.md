@@ -1,12 +1,11 @@
-## Hi there 👋
+# [Sharif](https://en.sharif.edu) [BP](https://docs.ce.sharif.edu/course/40153.1) Organization
 
-<!--
+The BP Organization is dedicated to providing a wide range of educational resources for students, educators, and enthusiasts in Basic Programming. Our repositories include study materials, coding exercises, and project examples from the course at SUT.
 
-**Here are some ideas to get you started:**
+## Featured Repository: [Materials](https://github.com/basic-programming-sut/Materials)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The `Materials` repository contains a wide range of educational resources for the Basic Programming course instructed by Dr. Turaj Arminpour in 2023 & 2024. It comprises of assignments, tests, presentation slides, and references for both students and teachers.
+
+## Website
+
+Here's the link to the website of the course: https://basic-programming-sut.github.io
